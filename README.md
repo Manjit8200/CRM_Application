@@ -7,6 +7,6 @@ Its Calling Application With Intergrated With Genesys.
 5) Change Status Ready, Not Ready, Lunch Break, Application down
 
 
-Set up JAVA & and Oracle Database and Tomcat 9.
+Set up JAVA & and Oracle Database and Tomcat 9 and Weblogic Server.
 
 ![image](https://github.com/Manjit8200/CRM_Application/assets/44630083/1c23c80c-a794-4476-876a-b09d8124999f)
