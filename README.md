@@ -4,7 +4,9 @@ Its Calling Application With Intergrated With Genesys.
 2) Click on the Ready button
 3) Automatic call is landing using Genesys APIs
 4) Save the call
-5) Change Status Ready, Not Ready, Lunch Break, Application down
+5) Change Status Ready, Not Ready, Lunch Break, Application down.
+6) Fetch the customer information from the Oracle database.
+   
 
 
 Set up JAVA & and Oracle Database and Tomcat 9 and Weblogic Server.
