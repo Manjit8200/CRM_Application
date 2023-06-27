@@ -9,6 +9,5 @@ Its Calling Application With Intergrated With Genesys.
 
 Set up JAVA & and Oracle Database and Tomcat 9.
 
-
-![image](https://github.com/Manjit8200/CRM_Application/assets/44630083/b7b3b04c-0789-45d8-8865-4b5f8532c38d)
+![image](https://github.com/Manjit8200/CRM_Application/assets/44630083/e7eea511-ec94-4a99-bacd-c474df01672d)
 
